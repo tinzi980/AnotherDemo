@@ -1,4 +1,4 @@
-package Exercise;
+package day1;
 import java.util.Scanner;
 public class salary {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Exercise;
+package day1;
 
 public class singleIf {
     public static void main(String[] args) {

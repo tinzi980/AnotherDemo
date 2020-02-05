@@ -1,28 +1,26 @@
-package Exercise;
+package day1;
 import java.util.*;
 public class Bagels {
     public static void main(String[] args) {
-        Scanner tp=new Scanner(System.in);
-        int bagels;
-        int order;
-        double total;
-        double charge;
-        int quantity;
-        total = charge*quantity;
 
+        int bagels;
+
+        double charge=0.0;
+
+        Scanner tp=new Scanner(System.in);
         System.out.println("Please enter the number of bagels");
         bagels=tp.nextInt();
         if (bagels >0 && bagels < 6 ){
 
 
-            cost = bagels*0.75;
-            System.out.println("the cost is " + cost);
+            charge = bagels*0.75;
+            System.out.printf("the cost is %.2f ", charge);
 
     }
 
         else if (bagels >=6 ){
-                cost=bagels*0.60;
-            System.out.println("the cost is "+ cost);
+                charge =bagels*0.60;
+            System.out.printf("the cost is %.2f ", charge);
 
         }else {
             System.out.println("invalid bagels");

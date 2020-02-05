@@ -26,14 +26,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.Bagels">
-    <configuration name="Bagels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise.Bagels" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="day2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.calculatingSales">
+    <configuration name="calculatingSales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.calculatingSales" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise.*" />
+          <option name="PATTERN" value="day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -41,12 +47,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="copies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise.copies" />
+    <configuration name="loop2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.loop2" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise.*" />
+          <option name="PATTERN" value="day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="salary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise.salary" />
+    <configuration name="loop3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.loop3" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise.*" />
+          <option name="PATTERN" value="day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="singleIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise.singleIf" />
+    <configuration name="loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.loops" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise.*" />
+          <option name="PATTERN" value="day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="widgets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise.widgets" />
+    <configuration name="quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1.quiz" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise.*" />
+          <option name="PATTERN" value="day1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bagels" />
-        <item itemvalue="Application.copies" />
-        <item itemvalue="Application.widgets" />
-        <item itemvalue="Application.singleIf" />
-        <item itemvalue="Application.salary" />
+        <item itemvalue="Application.calculatingSales" />
+        <item itemvalue="Application.quiz" />
+        <item itemvalue="Application.loops" />
+        <item itemvalue="Application.loop2" />
+        <item itemvalue="Application.loop3" />
       </list>
     </recent_temporary>
   </component>
@@ -117,26 +123,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="195" key="GridCell.Tab.0.bottom" timestamp="1580727712071">
+    <state x="566" y="298" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580803009289">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580727712071" />
-    <state width="1493" height="195" key="GridCell.Tab.0.center" timestamp="1580727712071">
+    <state x="566" y="298" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1580803009289" />
+    <state x="773" y="179" key="FileChooserDialogImpl" timestamp="1580817185733">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580727712071" />
-    <state width="1493" height="195" key="GridCell.Tab.0.left" timestamp="1580727712071">
+    <state x="773" y="179" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580817185733" />
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom" timestamp="1580895736792">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580727712071" />
-    <state width="1493" height="195" key="GridCell.Tab.0.right" timestamp="1580727712071">
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580895736792" />
+    <state width="1493" height="195" key="GridCell.Tab.0.center" timestamp="1580895736792">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580727712071" />
-    <state x="470" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1580714255671">
+    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580895736792" />
+    <state width="1493" height="195" key="GridCell.Tab.0.left" timestamp="1580895736792">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="470" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580714255671" />
+    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580895736792" />
+    <state width="1493" height="195" key="GridCell.Tab.0.right" timestamp="1580895736792">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580895736792" />
+    <state x="501" y="67" key="SettingsEditor" timestamp="1580817241353">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="501" y="67" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580817241353" />
+    <state x="470" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1580883621565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580883621565" />
     <state x="209" y="34" key="new project wizard" timestamp="1580714268475">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
